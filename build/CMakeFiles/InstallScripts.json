@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/cmake_install.cmake",
+		"/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/gtest/cmake_install.cmake",
+		"/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/samples/cmake_install.cmake",
+		"/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

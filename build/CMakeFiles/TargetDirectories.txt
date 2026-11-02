@@ -1,0 +1,11 @@
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/CMakeFiles/edit_cache.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/CMakeFiles/rebuild_cache.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/gtest/CMakeFiles/gtest.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/gtest/CMakeFiles/edit_cache.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/gtest/CMakeFiles/rebuild_cache.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/samples/CMakeFiles/sample_matrix.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/samples/CMakeFiles/edit_cache.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/samples/CMakeFiles/rebuild_cache.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/test/CMakeFiles/test_utmatrix.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/test/CMakeFiles/edit_cache.dir
+/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/test/CMakeFiles/rebuild_cache.dir

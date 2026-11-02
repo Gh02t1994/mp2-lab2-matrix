@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/gtest",
+  "command": "/usr/bin/clang++  -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/gtest -g -std=gnu++14 -arch arm64 -o CMakeFiles/gtest.dir/gtest-all.cc.o -c /Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/gtest/gtest-all.cc",
+  "file": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/gtest/gtest-all.cc",
+  "output": "gtest/CMakeFiles/gtest.dir/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/samples",
+  "command": "/usr/bin/clang++  -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/include -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/gtest -g -std=gnu++14 -arch arm64 -o CMakeFiles/sample_matrix.dir/sample_matrix.cpp.o -c /Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/samples/sample_matrix.cpp",
+  "file": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/samples/sample_matrix.cpp",
+  "output": "samples/CMakeFiles/sample_matrix.dir/sample_matrix.cpp.o"
+},
+{
+  "directory": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/test",
+  "command": "/usr/bin/clang++  -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/gtest -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/include -g -std=gnu++14 -arch arm64 -o CMakeFiles/test_utmatrix.dir/test_main.cpp.o -c /Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/test/test_main.cpp",
+  "file": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/test/test_main.cpp",
+  "output": "test/CMakeFiles/test_utmatrix.dir/test_main.cpp.o"
+},
+{
+  "directory": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/test",
+  "command": "/usr/bin/clang++  -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/gtest -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/include -g -std=gnu++14 -arch arm64 -o CMakeFiles/test_utmatrix.dir/test_tmatrix.cpp.o -c /Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/test/test_tmatrix.cpp",
+  "file": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/test/test_tmatrix.cpp",
+  "output": "test/CMakeFiles/test_utmatrix.dir/test_tmatrix.cpp.o"
+},
+{
+  "directory": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/build/test",
+  "command": "/usr/bin/clang++  -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/gtest -I/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/include -g -std=gnu++14 -arch arm64 -o CMakeFiles/test_utmatrix.dir/test_tvector.cpp.o -c /Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/test/test_tvector.cpp",
+  "file": "/Users/gh02t1994/VisualStudio/forks/mp2-lab2-matrix/test/test_tvector.cpp",
+  "output": "test/CMakeFiles/test_utmatrix.dir/test_tvector.cpp.o"
+}
+]
